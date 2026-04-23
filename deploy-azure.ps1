@@ -3,7 +3,7 @@ param(
 
     [string]$ResourceGroup = "jdemo_group",
 
-    [string]$PlanName = "ASP-jdemogroup-a6a9 (F1: 1)",
+    [string]$PlanName = "jdemo-plan",
 
     [string]$Location = "Southeast Asia",
 
